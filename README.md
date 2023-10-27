@@ -5,6 +5,5 @@ I am a 3rd-year Ph.D. student at the Singapore University of Technology and Desi
 * Homepage[:name_badge:](https://hzq950419.github.io/HomePage/)
 * Google Scholar[:bookmark_tabs:](https://scholar.google.com/citations?user=vjQQUnwAAAAJ&hl=en)
 
-  
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=HZQ950419)]()
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hzq950419&show_icons=true&count_private=true&theme=gruvbox" />
 

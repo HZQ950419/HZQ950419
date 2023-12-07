@@ -7,9 +7,4 @@ I am a 3rd-year Ph.D. student at the Singapore University of Technology and Desi
 
 <!--img align="left" src="https://github-readme-stats.vercel.app/api?username=HZQ950419&show_icons=true&count_private=true&theme=gruvbox" />
 
-<!--END_SECTION:waka-->
-
-[![wakatime](https://wakatime.com/badge/user/c6720b29-9431-4a60-bc9d-e1fb2b6bd65f.svg)](https://wakatime.com/@c6720b29-9431-4a60-bc9d-e1fb2b6bd65f)
-</details>
-
 ![](https://komarev.com/ghpvc/?username=HZQ950419)

@@ -5,6 +5,6 @@ I am a 3rd-year Ph.D. student at the Singapore University of Technology and Desi
 * Homepage[:name_badge:](https://hzq950419.github.io/HomePage/)
 * Google Scholar[:bookmark_tabs:](https://scholar.google.com/citations?user=vjQQUnwAAAAJ&hl=en)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HZQ950419&show_icons=true&count_private=true&theme=gruvbox" >
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hzq950419&show_icons=true&count_private=true&theme=gruvbox" >
 
 <a href="https://info.flagcounter.com/djJI"><img src="https://s01.flagcounter.com/count2/djJI/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
